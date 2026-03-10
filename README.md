@@ -3,7 +3,7 @@
 
 📌 목표
 * 하루 1문제 이상 풀이 (잔디 심기 🌱)
-* 단순 정답보다는 효율적인 알고리즘(시간 복잡도) 고민해보
+* 단순 정답보다는 효율적인 알고리즘(시간 복잡도) 고민하기
 * 주력 언어: C, Java
 
 ![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=wings2247)
