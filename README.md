@@ -6,7 +6,7 @@
 * 단순 정답보다는 효율적인 알고리즘(시간 복잡도) 고민해보
 * 주력 언어: C, Java
 
-* ![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=wings2247)
+![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=wings2247)
   
-*본 저장소는 매일 업데이트됩니다.*
-* 未来计划用中文撰写解题思路 *
+본 저장소는 매일 업데이트됩니다.
+未来计划用中文撰写解题思路！
