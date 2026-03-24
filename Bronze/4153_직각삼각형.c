@@ -8,7 +8,9 @@ int main() {
 		if (a == 0 && b == 0 && c == 0)
 			break;
 			
-		if (c * c == (a * a) + (b * b))
+		if ((a * a + b * b == c * c) || 
+            (a * a + c * c == b * b) || 
+            (b * b + c * c == a * a))
 			printf("right\n");
 		else
 			printf("wrong\n");
